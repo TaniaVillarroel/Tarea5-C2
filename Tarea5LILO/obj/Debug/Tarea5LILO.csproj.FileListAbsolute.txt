@@ -1,0 +1,9 @@
+C:\Users\brend\Desktop\2CUATRI_BREN\Tarea5LILO\Tarea5LILO\bin\Debug\Tarea5LILO.exe.config
+C:\Users\brend\Desktop\2CUATRI_BREN\Tarea5LILO\Tarea5LILO\bin\Debug\Tarea5LILO.exe
+C:\Users\brend\Desktop\2CUATRI_BREN\Tarea5LILO\Tarea5LILO\bin\Debug\Tarea5LILO.pdb
+C:\Users\brend\Desktop\2CUATRI_BREN\Tarea5LILO\Tarea5LILO\obj\Debug\Tarea5LILO.csprojResolveAssemblyReference.cache
+C:\Users\brend\Desktop\2CUATRI_BREN\Tarea5LILO\Tarea5LILO\obj\Debug\Tarea5LILO.Form1.resources
+C:\Users\brend\Desktop\2CUATRI_BREN\Tarea5LILO\Tarea5LILO\obj\Debug\Tarea5LILO.Properties.Resources.resources
+C:\Users\brend\Desktop\2CUATRI_BREN\Tarea5LILO\Tarea5LILO\obj\Debug\Tarea5LILO.csproj.GenerateResource.Cache
+C:\Users\brend\Desktop\2CUATRI_BREN\Tarea5LILO\Tarea5LILO\obj\Debug\Tarea5LILO.exe
+C:\Users\brend\Desktop\2CUATRI_BREN\Tarea5LILO\Tarea5LILO\obj\Debug\Tarea5LILO.pdb
